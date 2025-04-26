@@ -1,0 +1,15 @@
+node_modules
+dist
+.data
+.nitro
+.cache
+.output
+.env
+
+dump/
+
+server/public/files/**/*
+server/public/thumbs/**/*
+server/routes/**/test.*.ts
+
+migrations/*_seed.sql
